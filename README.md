@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/reliable-deep-learning-plant-leaf-disease/image-classification-on-plantvillage)](https://paperswithcode.com/sota/image-classification-on-plantvillage?p=reliable-deep-learning-plant-leaf-disease)
+
 # Reliable Deep Learning Plant Leaf Disease Classification Based on Light-Chroma Separated Branches
 This repository contains the source code for the paper [Reliable Deep Learning Plant Leaf Disease Classification Based on Light-Chroma Separated Branches](https://www.researchgate.net/publication/355215213_Reliable_Deep_Learning_Plant_Leaf_Disease_Classification_Based_on_Light-Chroma_Separated_Branches) by Joao Paulo Schwarz Schuler, Santiago Romani, Mohamed Abdel-Nasser, Hatem Rashwan and Domenec Puig. The [baseline](https://github.com/joaopauloschuler/two-path-noise-lab-plant-disease/tree/main/raw/baseline) folder contains the source code used to train our baseline model while the [two-paths](https://github.com/joaopauloschuler/two-path-noise-lab-plant-disease/tree/main/raw/two-paths) folder contains our two-paths LAB feed Inception V3 variants.
 
