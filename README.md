@@ -19,3 +19,7 @@ isbn = {9781643682105},
 doi = {10.3233/FAIA210157}
 }
 ```
+## Running the Code
+Due to library updates, the code used for the paper doesn't run anymore on current tensorflow/keras. As of the writting of this readme, current version of tensorflow is 2.7. Follows an updated version of the code done after the paper was published:
+* [BaseLine](https://github.com/joaopauloschuler/two-path-noise-lab-plant-disease/v2.7/code_example_schuler_baseline_various_mixes-v2.7.ipynb). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+* [Two-paths](https://github.com/joaopauloschuler/two-path-noise-lab-plant-disease/v2.7/code_example_schuler_two_paths_various_mixes-v2.7.ipynb). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
