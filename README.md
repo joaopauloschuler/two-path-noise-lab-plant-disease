@@ -9,7 +9,7 @@ The Food and Agriculture Organization (FAO) estimated that plant diseases cost t
 ## Citing this Paper 
 Bibtex:
 ```
-@inbook{inbook,
+@inbook{Schuler2021plant,
 author = {Schuler, Joao and Romaní, Santiago and Abdel-nasser, Mohamed and Rashwan, Hatem and Puig, Domenec},
 year = {2021},
 month = {10},
@@ -20,6 +20,6 @@ doi = {10.3233/FAIA210157}
 }
 ```
 ## Running the Code
-Due to library updates, the code used for the paper doesn't run anymore on current tensorflow/keras. As of the writting of this readme, current version of tensorflow is 2.7. Follows an updated version of the code done after the paper was published:
+Due to library updates, the code used for the paper doesn't run on current tensorflow/keras. As of the writting of this readme file, current version of tensorflow is 2.7. An updated version of the code was done after the paper publication. This version is now compatible with tensorflow 2.7:
 * [Baseline](https://github.com/joaopauloschuler/two-path-noise-lab-plant-disease/blob/main/v2.7/code_example_schuler_baseline_various_mixes_v2_7.ipynb). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaopauloschuler/two-path-noise-lab-plant-disease/blob/main/v2.7/code_example_schuler_baseline_various_mixes_v2_7.ipynb)
 * [Two-paths](https://github.com/joaopauloschuler/two-path-noise-lab-plant-disease/blob/main/v2.7/code_example_schuler_two_paths_various_mixes_v2_7.ipynb). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaopauloschuler/two-path-noise-lab-plant-disease/blob/main/v2.7/code_example_schuler_two_paths_various_mixes_v2_7.ipynb)
