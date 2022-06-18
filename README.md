@@ -15,6 +15,8 @@ year = {2021},
 month = {10},
 pages = {375-381},
 title = {Reliable Deep Learning Plant Leaf Disease Classification Based on Light-Chroma Separated Branches},
+booktitle = {Artificial Intelligence Research and Development},
+publisher = {IOS Press},
 isbn = {9781643682105},
 doi = {10.3233/FAIA210157}
 }
