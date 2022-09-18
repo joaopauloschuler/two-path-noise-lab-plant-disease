@@ -9,6 +9,9 @@ The Food and Agriculture Organization (FAO) estimated that plant diseases cost t
 ## Further Reading
 You may be interested in our other paper on the same topic and the same dataset [Color-aware two-branch DCNN for efficient plant disease classification](https://github.com/joaopauloschuler/two-branch-plant-disease). You may also be interested at optimizing deeper layers of a DCNN: [V1](https://github.com/joaopauloschuler/kEffNetV1) and [V2](https://github.com/joaopauloschuler/kEffNetV2).
 
+## Give this Project a Star
+This project is an open source project. If you like what you see, please give it a star on github.
+
 ## Citing this Paper 
 Bibtex:
 ```
