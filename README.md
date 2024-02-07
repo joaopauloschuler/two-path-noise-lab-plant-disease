@@ -6,6 +6,9 @@ This repository contains the source code for the paper [Reliable Deep Learning P
 ## Abstract
 The Food and Agriculture Organization (FAO) estimated that plant diseases cost the world economy $220 billion in 2019. In this paper, we propose a lightweight Deep Convolutional Neural Network (DCNN) for automatic and reliable plant leaf diseases classification. The proposed method starts by converting input images of plant leaves from RGB to CIE LAB coordinates. Then, L and AB channels go into separate branches along with the first three layers of a modified Inception V3 architecture. This approach saves from 1/3 to 1/2 of the parameters in the separated branches. It also provides better classification reliability when perturbing the original RGB images with several types of noise (salt and pepper, blurring, motion blurring and occlusions). These types of noise simulate common image variability found in the natural environment. We hypothesize that the filters in the AB branch provide better resistance to these types of variability due to their relatively low frequency in the image-space domain.
 
+## 2 Minutes Intro Video
+[![Watch the video](https://img.youtube.com/vi/8vrW41cgfuA/0.jpg)](https://youtu.be/8vrW41cgfuA)
+
 ## Further Reading
 You may be interested in our other paper on the same topic and the same dataset [Color-aware two-branch DCNN for efficient plant disease classification](https://github.com/joaopauloschuler/two-branch-plant-disease). You may also be interested at optimizing deeper layers of a DCNN: [V1](https://github.com/joaopauloschuler/kEffNetV1) and [V2](https://github.com/joaopauloschuler/kEffNetV2).
 
